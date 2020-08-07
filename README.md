@@ -1,4 +1,4 @@
-# FACE-DETECTION-AND-ENCODING
+# FACE DETECTION & ENCODING.
 A simple project which detects the faces from a photo and encodes the detected faces into 128 numbers.
 This project is an excerpt from my face recognition course from Lynda Learning taught by Adam Geitgey.
 
